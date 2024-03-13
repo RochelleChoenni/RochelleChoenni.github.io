@@ -20,7 +20,7 @@ Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMA
 
 **Examining Modularity in Multilingual LMs via Language-Specialized Subnetworks.**  
 Rochelle Choenni, Ekaterina Shutova, Dan Garrette.   
-*Under review.* [[pdf]](https://arxiv.org/pdf/2311.08273.pdf)
+*In Findings of NAACL 2024.* [[pdf]](https://arxiv.org/pdf/2311.08273.pdf)
 
 **How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning.**   
 Rochelle Choenni, Dan Garrette, Ekaterina Shutova.  
@@ -28,7 +28,7 @@ Rochelle Choenni, Dan Garrette, Ekaterina Shutova.
 
 **Cross-lingual Transfer with Language-specific Subnetworks for Low-resource Dependency Parsing.**   
 Rochelle Choenni, Dan Garrette, Ekaterina Shutova.   
-*Computational Linguistics, 1-37.* [[pdf]](https://direct.mit.edu/coli/article/49/3/613/116157)
+*Computational Linguistics 1-37, 2023.* [[pdf]](https://direct.mit.edu/coli/article/49/3/613/116157)
 
 **Stepmothers are mean and academics are pretentious: What do pretrained language models learn about you?**   
 Rochelle Choenni, Ekaterina Shutova, Robert van Rooij.  
@@ -36,7 +36,7 @@ Rochelle Choenni, Ekaterina Shutova, Robert van Rooij.
 
 **Investigating language relationships through the lens of linguistic typology.**  
 Rochelle Choenni, Ekaterina Shutova.  
-*Computational Linguistics, 48(2).* [[pdf]](https://direct.mit.edu/coli/article/48/3/635/110573)
+*Computational Linguistics 48(2), 2022.* [[pdf]](https://direct.mit.edu/coli/article/48/3/635/110573)
 
 
 
