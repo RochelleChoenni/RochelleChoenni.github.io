@@ -12,7 +12,7 @@ I am a fourth-year PhD candidate in NLP under the supervision of prof. [Ekaterin
 
 My main research interests include multilingual NLP, modular deep learning, interpretability and social biases in LMs.
 
-I am submitting my thesis this summer and am looking for job opportunities starting in fall 2024.
+Note: I am submitting my thesis this summer and am looking for job opportunities starting in fall 2024.
 
 ## Highlighted publications
 
