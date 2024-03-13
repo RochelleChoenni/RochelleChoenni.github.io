@@ -24,9 +24,9 @@ author:
   avatar           : "self.jpg"
   name             : "Rochelle Choenni"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate in Natural Language Processing"
+  bio              : "PhD Candidate in NLP"
   location         : "Amsterdam, the Netherlands"
-  employer         : "University of Amsterdam"
+  employer         : 
   uri              : # URL
   email            : "rmvk97@gmail.com" 
 
