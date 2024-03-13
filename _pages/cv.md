@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: ../files/cv_15-3.pdf
+permalink: ../files/cv_choenni.pdf
 author_profile: true
 redirect_from:
   - /cv/
