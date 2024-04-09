@@ -22,7 +22,7 @@ Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMA
 Rochelle Choenni, Ekaterina Shutova, Dan Garrette.   
 *In Findings of NAACL 2024.* [[pdf]](https://arxiv.org/pdf/2311.08273.pdf)
 
-**How do languages influence each other? Studying cross-lingual data sharing during LLM fine-tuning.**   
+**How do languages influence each other? Studying cross-lingual data sharing during LM fine-tuning.**   
 Rochelle Choenni, Dan Garrette, Ekaterina Shutova.  
 *In Proceedings of EMNLP 2023.* [[pdf]](https://aclanthology.org/2023.emnlp-main.818.pdf)
 
@@ -34,7 +34,7 @@ Rochelle Choenni, Dan Garrette, Ekaterina Shutova.
 Rochelle Choenni, Ekaterina Shutova, Robert van Rooij.  
 *In Proceedings of EMNLP 2021.* [[pdf]](https://aclanthology.org/2021.emnlp-main.111.pdf)
 
-**Investigating language relationships through the lens of linguistic typology.**  
+**Investigating Language Relationships in Multilingual Sentence Encoders through the Lens of Linguistic Typology.**  
 Rochelle Choenni, Ekaterina Shutova.  
 *Computational Linguistics 48(2), 2022.* [[pdf]](https://direct.mit.edu/coli/article/48/3/635/110573)
 
