@@ -18,6 +18,10 @@ Note: I am submitting my thesis this summer and am looking for job opportunities
 
 Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMAAAAJ&hl=nl&oi=ao) for a full list of my publications.
 
+**The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning.**    
+Rochelle Choenni, Anne Lauscher, Ekaterina Shutova.   
+*In Proceedings of ACL 2024.* [[pdf]](https://arxiv.org/pdf/2405.12744.pdf)
+
 **Examining Modularity in Multilingual LMs via Language-Specialized Subnetworks.**  
 Rochelle Choenni, Ekaterina Shutova, Dan Garrette.   
 *In Findings of NAACL 2024.* [[pdf]](https://arxiv.org/pdf/2311.08273.pdf)
