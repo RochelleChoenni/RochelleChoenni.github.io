@@ -8,13 +8,12 @@ redirect_from:
 ---
 
 ## About me
-I am a fourth-year PhD candidate in NLP under the supervision of prof. [Ekaterina Shutova](https://www.shutova.org/) at the [Institute for Logic, Language and Computation](https://www.illc.uva.nl/) (ILLC) at the University of Amsterdam (UvA). In 2021 I was awarded a [Google PhD fellowship](https://research.google/outreach/phd-fellowship/) which supports my research and connected me to my co-supervisor at Google, dr. [Dan Garrette](http://www.dhgarrette.com/). Before my PhD I graduated with a bachelor's and master's degree in AI from the UvA and worked as a research assistant for prof. [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/) at the ILLC.
+I am a postdoctoral researcher in Natural Language Processing (NLP) working with prof. [Ivan Titov](http://ivan-titov.org/). My main research interests include multilingual NLP, modular deep learning, interpretability and social biases in language models.
 
-My main research interests include multilingual NLP, modular deep learning, interpretability and social biases in LMs.
+Previously, I obtained a PhD in NLP at the University of Amsterdam (UvA) under the supervision of dr. [Ekaterina Shutova](https://www.shutova.org/) and dr. [Dan Garrette](http://www.dhgarrette.com/) (Google Research). My PhD research was supported by a [Google PhD fellowship](https://research.google/outreach/phd-fellowship/). Before my PhD I graduated with a bachelor's and master's degree in Aritifical Intelligence from the UvA and worked as a research assistant for prof. [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
-Note: I am submitting my thesis this summer and am looking for job opportunities starting in fall 2024.
 
-## Highlighted publications
+## Selected publications
 
 Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMAAAAJ&hl=nl&oi=ao) for a full list of my publications.
 
