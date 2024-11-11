@@ -10,7 +10,7 @@ redirect_from:
 ## About me
 I am a postdoctoral researcher in Natural Language Processing (NLP) working with prof. [Ivan Titov](http://ivan-titov.org/). My main research interests include multilingual NLP, modular deep learning, interpretability and social biases in language models.
 
-Previously, I obtained a PhD in NLP at the University of Amsterdam (UvA) under the supervision of dr. [Ekaterina Shutova](https://www.shutova.org/) and dr. [Dan Garrette](http://www.dhgarrette.com/) (Google Research). My PhD research was supported by a [Google PhD fellowship](https://research.google/outreach/phd-fellowship/). Before my PhD I graduated with a bachelor's and master's degree in Aritifical Intelligence from the UvA and worked as a research assistant for prof. [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
+Previously, I obtained a PhD in NLP at the University of Amsterdam (UvA) under the supervision of dr. [Ekaterina Shutova](https://www.shutova.org/) and dr. [Dan Garrette](http://www.dhgarrette.com/) (Google Research). My PhD research was supported by a [Google PhD fellowship](https://research.google/outreach/phd-fellowship/). Before my PhD I graduated with a bachelor's and master's degree in Artifical Intelligence from the UvA and worked as a research assistant for prof. [Jelle Zuidema](https://staff.fnwi.uva.nl/w.zuidema/).
 
 
 ## Selected publications
