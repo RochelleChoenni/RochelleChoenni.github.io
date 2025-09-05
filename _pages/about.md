@@ -17,6 +17,10 @@ Previously, I obtained a PhD in NLP at the University of Amsterdam (UvA) under t
 
 Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMAAAAJ&hl=nl&oi=ao) for a full list of my publications.
 
+**M-Wanda: Improving One-Shot Pruning for Multilingual LLMs.**    
+Rochelle Choenni, Ivan Titov.   
+*To appear in Proceedings of EMNLP 2025.* [[pdf]](https://arxiv.org/pdf/2505.21171?)
+
 **The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning.**    
 Rochelle Choenni, Anne Lauscher, Ekaterina Shutova.   
 *In Proceedings of ACL 2024.* [[pdf]](https://arxiv.org/pdf/2405.12744.pdf)
