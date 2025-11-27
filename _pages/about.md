@@ -19,7 +19,7 @@ Visit my [Google Scholar Page](https://scholar.google.nl/citations?user=-_WbyoMA
 
 **M-Wanda: Improving One-Shot Pruning for Multilingual LLMs.**    
 Rochelle Choenni, Ivan Titov.   
-*To appear in Proceedings of EMNLP 2025.* [[pdf]](https://arxiv.org/pdf/2505.21171?)
+*In Proceedings of EMNLP 2025.* [[pdf]](https://arxiv.org/pdf/2505.21171?)
 
 **The Echoes of Multilinguality: Tracing Cultural Value Shifts during LM Fine-tuning.**    
 Rochelle Choenni, Anne Lauscher, Ekaterina Shutova.   
